@@ -2,7 +2,8 @@
 <playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='1.1 Introduce to algorithm'/>
-        <page name='Untitled Page 2'/>
+        <page name='1.2 Basic Struct'/>
         <page name='Untitled Page 3'/>
+        <page name='Untitled Page'/>
     </pages>
 </playground>
