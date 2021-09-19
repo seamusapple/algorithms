@@ -1,5 +1,4 @@
 import Foundation
-import UIKit
 
 public struct Stack<Elememt> {
     public mutating func push(_ element: Elememt) {
@@ -27,7 +26,6 @@ public struct Stack<Elememt> {
     }
     
     public var name = ""
-    
     private var array: [Elememt] = []
 }
 
