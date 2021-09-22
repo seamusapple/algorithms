@@ -3,7 +3,7 @@
     <pages>
         <page name='1.1 Introduce to algorithm'/>
         <page name='1.2 Basic Struct'/>
-        <page name='Untitled Page 3'/>
+        <page name='BinaryTree'/>
         <page name='Untitled Page'/>
     </pages>
 </playground>
